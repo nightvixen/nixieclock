@@ -1,0 +1,3 @@
+#define SAMPLE_BUFFER 24
+#define SAMPLE_RATE 8000UL
+#define N_VOICES 5
