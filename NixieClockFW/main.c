@@ -19,7 +19,6 @@ unsigned char hour, min, sec,bri=255;
 uint8_t fd=0, sd=0, td=0;
 unsigned char dig=0;
 
-//yiff yiff
 uint8_t num;
 uint8_t dots=0, alarm=0, mpos=0;
 #define MLEN 71
